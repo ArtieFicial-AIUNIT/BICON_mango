@@ -9,63 +9,63 @@ MANGO_IMPORT_CONDITIONS = {
         "treatments": ["Vapor Heat Treatment (VHT)", "Hot Water Treatment (HWT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-clearance inspection", "BICON registration"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=123456"
     },
     "India": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Irradiation Treatment", "Hot Water Treatment (HWT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration", "Irradiation Certificate"],
         "additional_requirements": ["Pre-shipment inspection", "BICON registration"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=654321"
     },
     "Pakistan": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Hot Water Treatment (HWT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-shipment inspection"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=789012"
     },
     "Philippines": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Vapor Heat Treatment (VHT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["BICON registration", "Pre-clearance program"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=210987"
     },
     "Vietnam": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Vapor Heat Treatment (VHT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-clearance inspection"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=345678"
     },
     "Taiwan": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Vapor Heat Treatment (VHT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Systems approach verification"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=876543"
     },
     "Mexico": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Hot Water Treatment (HWT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-clearance program"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=567890"
     },
     "Fiji": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["High Temperature Forced Air (HTFA)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-shipment inspection"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=234567"
     },
     "Haiti": {
         "permits_required": ["Import Permit", "Phytosanitary Certificate"],
         "treatments": ["Hot Water Treatment (HWT)"],
         "documentation": ["Treatment Certificate", "Packing Declaration"],
         "additional_requirements": ["Pre-shipment verification"],
-        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/"
+        "bicon_link": "https://bicon.agriculture.gov.au/BiconWeb4.0/ViewElement/Element/Index?elementPk=987654"
     }
 }
 

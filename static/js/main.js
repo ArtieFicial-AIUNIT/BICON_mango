@@ -69,6 +69,10 @@ document.addEventListener('DOMContentLoaded', function() {
                     ${conditions.additional_requirements.map(req => `<li>${req}</li>`).join('')}
                 </ul>
             </div>
+            <div class="condition-section">
+                <h3><i class="fas fa-info-circle"></i> Detailed Conditions</h3>
+                <p>${conditions.detailed_conditions}</p>
+            </div>
             <div class="bicon-link">
                 <a href="${conditions.bicon_link}" target="_blank">
                     <i class="fas fa-external-link-alt"></i> View Full BICON Details
